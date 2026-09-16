@@ -92,6 +92,18 @@ export default function Collectibles() {
               Sam Walker
             </a>
           </p>
+          <p className="mt-2">
+            An internal product of{" "}
+            <a
+              href="https://lookatmeimfamous.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-foreground hover:text-accent hover:underline"
+            >
+              Look At Me I&apos;m Famous
+            </a>
+            {" "}— a multi-disciplinary blockchain and e-commerce software development company.
+          </p>
         </footer>
       </main>
     </div>
